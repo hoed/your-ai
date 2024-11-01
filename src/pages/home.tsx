@@ -17,7 +17,7 @@ export default function Home() {
         untuk ChatAI.
       </p>
       <p>
-        Your AI memungkinkan anda memilih model AI untuk digunakan. Kamu dapat menggunakan model AI yang menurutmu bagus untuk di gunakan.
+        Your AI memungkinkan kita memilih model AI yang lebih bagus untuk kita digunakan.
       </p>
       <h2>Coba Sekarang</h2>
       <div className="ai-menus"> 
