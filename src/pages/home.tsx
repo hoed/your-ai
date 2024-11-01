@@ -24,7 +24,7 @@ export default function Home() {
         <Link to="/chat">Chat AI</Link>
         <Link to="/image">Image Generator</Link>
       </div>
-      <p className="ai-footer"> &copy; 2024 Hoed AI Tools for Everyone.</p>
+      <p className="ai-footer"> &copy; 2024 Hoed AI Tools for Everyone. Project <a href="https://github.com/hoed/your-ai">Source Code</a>.</p>
     </main>
   );
 }
