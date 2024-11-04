@@ -8,8 +8,7 @@
   padding: 0.25rem;
   margin: 1rem auto;
   width: 80%;
-  height: calc(90vh - 2.5rem);
-  max-height: calc(90vh - 2.5rem);
+
   overflow-y: auto;
   scroll-behavior: smooth;
 }
