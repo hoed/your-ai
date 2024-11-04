@@ -4,6 +4,19 @@ import "../styles/home.css";
 export default function Home() {
   return (
     <main className="landing-page">
+      <div class="container-fluid">
+      <div class="navbar-nav ms-auto">
+      <nav class="nav-menu">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a class="navbar-link" href="/chat">AI Chat</a></li>
+        <li><a class="navbar-link" href="/image">AI Image</a></li>
+        <li><a class="navbar-link" href="https://clients.rumahost.com" target="_blank">Register Webhosting</a></li>
+        <li><a class="navbar-link" href="https://s.id/photoanalyzer" target="_blank">Photo Analyzer</a></li>
+      </ul>
+      </nav>
+      </div>
+      </div>
       <h1 className="site-title">Your AI</h1>
       <p>
         Your AI mempersembahkan AI Tools untuk semua orang. Your AI menggunakan API dari{" "}
