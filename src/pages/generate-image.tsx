@@ -152,20 +152,7 @@ export default function GenerateImage() {
   return (
     <>
       <main>
-      <div class="container-fluid">
-      <div class="navbar-nav ms-auto">
-      <nav class="nav-menu">
-      <ul>
-      <li><a href="/">Home</a></li>
-        <li><a class="navbar-link" href="/chat">AI Chat</a></li>
-        <li><a class="navbar-link" href="/image">AI Image</a></li>
-        <li><a class="navbar-link" href="https://clients.rumahost.com" target="_blank">Register Webhosting</a></li>
-        <li><a class="navbar-link" href="https://s.id/photoanalyzer" target="_blank">Photo Analyzer</a></li>
-      </ul>
-      </nav>
-      </div>
-      </div>
-        <div className="generator-form">
+      <div className="generator-form">
           <h1 className="title">Mari Mulai Menggambar</h1>
           <div className="model-selection">
             <label htmlFor="model">Pilih AI Model</label>
