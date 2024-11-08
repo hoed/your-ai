@@ -166,19 +166,6 @@ export default function Chat() {
   return (
     <>
       <main>
-      <div class="container-fluid">
-      <div class="navbar-nav ms-auto">
-      <nav class="nav-menu">
-      <ul>
-      <li><a href="/">Home</a></li>
-        <li><a class="navbar-link" href="/chat">AI Chat</a></li>
-        <li><a class="navbar-link" href="/image">AI Image</a></li>
-        <li><a class="navbar-link" href="https://clients.rumahost.com" target="_blank">Register Webhosting</a></li>
-        <li><a class="navbar-link" href="https://s.id/photoanalyzer" target="_blank">Photo Analyzer</a></li>
-      </ul>
-      </nav>
-      </div>
-      </div>
         <div className="chat-area">
           {messages.length < 1 ? (
             <div className="chat-model-selection">
