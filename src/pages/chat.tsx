@@ -173,7 +173,7 @@ export default function Chat() {
                 <p className="loading">Load Models</p>
               ) : (
                 <>
-                  <label htmlFor="models">Select AI Model</label>
+                  <label htmlFor="models">Pilih Model AI</label>
                   <select
                     name="models"
                     id="models"
