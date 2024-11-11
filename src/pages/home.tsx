@@ -4,7 +4,6 @@ import "../styles/home.css";
 export default function Home() {
   return (
     <main className="landing-page">
-      
       <h1 className="site-title">Your AI</h1>
       <p>
         Your AI mempersembahkan AI Tools untuk semua orang. Your AI menggunakan API dari{" "}
